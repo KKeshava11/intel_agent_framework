@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# FastAPI uploads (optional)
+uploads/
+
+# IntelliJ / JetBrains
+*.iml
+
